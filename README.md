@@ -23,7 +23,7 @@ In this course project, we were required to do an analysis on the cause of death
     
     
 ## 3 Data
-CDC mortality data between 2005 and 2015 are retrieved from Kaggle(https://www.kaggle.com/cdc/mortality) i.e.
+CDC mortality data between 2005 and 2015 are retrieved from Kaggle (https://www.kaggle.com/cdc/mortality) i.e.
 "data/mortality/2005_data.csv", "data/mortality/2006_data.csv" ... "data/ mortality/2015_data.csv". 
 
 Every row in the files represents a death file in CDC. Each file contains 77 columns and the fields are selectively described as below:
